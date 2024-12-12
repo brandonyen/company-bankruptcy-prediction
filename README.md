@@ -1,1 +1,1 @@
-# company-bankruptcy-prediction
+# Company Bankruptcy Prediction
